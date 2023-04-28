@@ -1,7 +1,6 @@
 # Adaptive-N-BEATS-S
 
-This repo contains the code for the extensions to [N-BEATS-S](https://www.sciencedirect.com/science/article/pii/S016920702200098X) (Van Belle, J., Crevits, R., & Verbeke, W. (2022). Improving forecast stability
-using deep learning. International Journal of Forecasting.) using adaptive loss balancing. It contains implementations for [GradNorm](http://proceedings.mlr.press/v80/chen18a.html?ref=https://githubhelp.com), (weighted) [Gradient Cosine Similarity](https://arxiv.org/abs/1812.02224), and [Random Weighting](https://arxiv.org/abs/2111.10603) (Cap). 
+This repo contains the code for the extensions to [N-BEATS-S](https://www.sciencedirect.com/science/article/pii/S016920702200098X) using adaptive loss balancing. It contains implementations for [GradNorm](http://proceedings.mlr.press/v80/chen18a.html?ref=https://githubhelp.com), (weighted) [Gradient Cosine Similarity](https://arxiv.org/abs/1812.02224), and [Random Weighting](https://arxiv.org/abs/2111.10603) (Cap). 
 
 The following code was used as a starting point for the extensions to N-BEATS-S:
 - N-BEATS-S developed by Jente Van Belle (https://github.com/KU-Leuven-LIRIS/n-beats-s)
