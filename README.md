@@ -6,7 +6,7 @@ using deep learning. International Journal of Forecasting.) using adaptive loss 
 The following code was used as a starting point for the extensions to N-BEATS-S:
 - N-BEATS-S developed by Jente Van Belle (https://github.com/KU-Leuven-LIRIS/n-beats-s)
 - GradNorm algorithm by LucasBoTang (https://github.com/LucasBoTang/GradNorm)
-- Gradient Cosine Similarity (https://avivnavon.github.io/AuxiLearn/)
+- Gradient Cosine Similarity by Aviv Navon et al. (https://avivnavon.github.io/AuxiLearn/)
 
 
 References: 
