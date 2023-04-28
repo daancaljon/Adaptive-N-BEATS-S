@@ -10,7 +10,7 @@ The following code was used as a starting point for the extensions to N-BEATS-S:
 
 
 References: 
-- Van Belle, J., Crevits, R., & Verbeke, W. (2022). Improving forecast stability using deep learning. International Journal of Forecasting.
-- Lin, B., Feiyang, Y., Zhang, Y., & Tsang, I. (2022). Reasonable effectiveness of random weighting: A litmus test for multi-task learning. Transactions on Machine Learning Research.
-- Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B. (2018). Adapting auxiliary losses using gradient similarity. arXiv preprint arXiv:1812.02224.
 - Chen, Z., Badrinarayanan, V., Lee, C.-Y., & Rabinovich, A. (2018). Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks.In International conference on machine learning, (pp. 794–803). PMLR.
+- Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B. (2018). Adapting auxiliary losses using gradient similarity. arXiv preprint arXiv:1812.02224.
+- Lin, B., Feiyang, Y., Zhang, Y., & Tsang, I. (2022). Reasonable effectiveness of random weighting: A litmus test for multi-task learning. Transactions on Machine Learning Research.
+- Van Belle, J., Crevits, R., & Verbeke, W. (2022). Improving forecast stability using deep learning. International Journal of Forecasting.
